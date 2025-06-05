@@ -1,24 +1,18 @@
-# README
+# Base template with following thingd
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- ruby 3.4.2
+- node 22.12
+- rails 8.0.2
+- react 18.2.0
+- inertia_rails gem 3.8.0
+- vite_rails gem 3.0.19
+- eslint
+- prettier
+- rubocop with some default rubocop rules
+- commit hooks for eslint and rubocop
 
-Things you may want to cover:
+# To run project
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+./bin/dev
+```
