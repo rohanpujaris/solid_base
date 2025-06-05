@@ -1,0 +1,6 @@
+node_modules/
+public/
+tmp/
+vendor/
+app/javascript/application.js
+app/javascript/controllers/**/*.js
