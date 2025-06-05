@@ -60,6 +60,6 @@ group :test do
   gem 'selenium-webdriver'
 end
 
-gem 'inertia_rails'
-gem 'rubocop-rails'
-gem 'vite_rails'
+gem 'inertia_rails', '~> 3.8.0'
+gem 'rubocop-rails', '~> 2.32.0'
+gem 'vite_rails', '~> 3.0.19'
